@@ -1,0 +1,6 @@
+.mainDiv {
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    padding: 15px;
+}
